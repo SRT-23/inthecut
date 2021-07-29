@@ -1,0 +1,68 @@
+body {
+    font-family: "Open Sans", sans-serif; 
+}
+
+h1, h2, h3 {
+    font-family: "Rustika", cursive;
+}
+
+h3 {
+    color: #0088e0;
+}
+
+h2{
+    color: #e24c3b;
+}
+
+h5 {
+    font-family: "Rustika", cursive;
+    font-weight: bold;
+}
+
+header h2 {
+    color: black;
+}
+
+.site-footer {
+    background-color: #c0c6c8;
+    padding: 20px 0;
+    color: black;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: #c0c6c8;
+    color: black;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #c0c6c8;
+}
+
+.tab-content {
+    border:1px solid #0088e0;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #0088e0;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+
